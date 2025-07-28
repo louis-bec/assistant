@@ -6,7 +6,7 @@ This project is designed for automated testing of web applications using Node.js
 
 ```
 web-automation-testing
-├── src
+├── srchjhjh
 │   ├── tests
 │   │   └── example.test.js
 │   └── utils
